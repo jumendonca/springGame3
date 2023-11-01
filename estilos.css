@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:lightskyblue;
+    color:beige;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color:beige;
+}
+
+#cadastro, #pesquisa {
+    background-color:navy;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color:;
+    color:lightskyblue;
+}
+
+button {
+    background-color:;
+    color:darkblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:lightskyblue;;
+}
